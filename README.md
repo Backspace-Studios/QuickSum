@@ -3,7 +3,7 @@ Quickly summarize anything on the screen with a single click of the alt key.
 
 **How it works**
 
-When you press the *alt key, it uses the `pyautogui` to take a screenshot, passes it to Google Gemini (`google-genai`) with a
+When you press the alt key, it uses the `pyautogui` to take a screenshot, passes it to Google Gemini (`google-genai`) with a
 prompt instructing it to explain the content of the screenshot. After getting the response, it uses `pyttsx3` to speak the
 response without the need for a GUI.
 
