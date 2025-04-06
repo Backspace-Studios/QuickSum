@@ -1,0 +1,1 @@
+python "quicksum.py"
