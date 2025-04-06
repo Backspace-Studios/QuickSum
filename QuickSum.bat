@@ -1,1 +1,1 @@
-python "quicksum.py"
+python "main.py"
